@@ -32,15 +32,9 @@ Philosophy : Think freely. Learn constantly.
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,ubuntu,python,bash,git,github,vscode" />
 
 </div>
-
-## 📊 Stats
+## 🐍 Activity
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raheblog&show_icons=true&theme=transparent&hide_border=true&title_color=00F7A5&icon_color=00F7A5&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheblog&layout=compact&theme=transparent&hide_border=true&title_color=00F7A5&text_color=C9D1D9" />
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/raheblog/raheblog/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
