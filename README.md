@@ -38,12 +38,7 @@ Philosophy : Think freely. Learn constantly.
 
 </div>
 
-## 🤪 Fun Facts
 
-- 🐧 I use Arch... btw
-- ☕ Converts caffeine into commands
-- 🔒 My password is not `password123` (it's `password1234`)
-- 🧠 Googling error messages professionally
 
 ## 🐍 Activity
 
