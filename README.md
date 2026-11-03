@@ -19,7 +19,7 @@
 └─$ cat identity.txt
 
 Focus      : Linux / Cybersecurity / Networking
-Languages  : Python / Bash
+Languages  : Python / Bash / Go
 Learning   : CEH, LPIC, Advanced Linux
 Philosophy : Think freely. Learn constantly.
 ```
@@ -34,11 +34,28 @@ Philosophy : Think freely. Learn constantly.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,ubuntu,python,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,fedora,kali,redhat,raspberrypi,docker&perline=9" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,go,bash,git,github,vscode,html,css,js&perline=9" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BlackArch-Linux-111111?style=for-the-badge&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 </div>
 
+## 🤪 Fun Facts
 
+- 🐧 I use Arch... btw
+- ☕ Converts caffeine into commands
+- 🔒 My password is not `password123` (it's `password1234`)
+- 🧠 Googling error messages professionally
 
 ## 🐍 Activity
 
