@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,100:0077FF&height=140&section=header&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F7A5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Raheb+%F0%9F%91%8B;Just+a+Geek+in+a+Digital+World;Linux+%7C+Cybersecurity+%7C+Python;Music+Production+%7C+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F7A5&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Raheb+%F0%9F%91%8B;Just+a+Geek+in+a+Digital+World;Linux+%7C+Cybersecurity+%7C+Python;Open+Source+%7C+Privacy" />
 
 <br/>
 
@@ -20,10 +20,15 @@
 
 Focus      : Linux / Cybersecurity / Networking
 Languages  : Python / Bash
-Creative   : Music Production (FL Studio, Cubase)
 Learning   : CEH, LPIC, Advanced Linux
 Philosophy : Think freely. Learn constantly.
 ```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=%24+sudo+rm+-rf+%2F+...+just+kidding;%24+nmap+-sV+my+own+wifi+only;%24+echo+%22Think+freely%22;%24+exit+0" />
+
+</div>
 
 ## ⚡ Tech Stack
 
@@ -32,8 +37,21 @@ Philosophy : Think freely. Learn constantly.
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,ubuntu,python,bash,git,github,vscode" />
 
 </div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=%24+sudo+rm+-rf+%2F+(just+kidding+%F0%9F%98%85);%24+nmap+-sV+my-wifi+(my+own+only!);%24+echo+%22Think+freely%22;%24+exit+0" />
+
+## 🤪 Fun Facts
+
+- 🐧 I use Arch... btw
+- ☕ Converts caffeine into commands
+- 🔒 My password is not `password123` (it's `password1234`)
+- 🧠 Googling error messages professionally
+
+## 🐍 Activity
+
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/raheblog/raheblog/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br/>
 
 ```bash
 sudo apt update && sudo apt upgrade
