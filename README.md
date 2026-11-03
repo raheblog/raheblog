@@ -32,14 +32,7 @@ Philosophy : Think freely. Learn constantly.
 <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,ubuntu,python,bash,git,github,vscode" />
 
 </div>
-## 🐍 Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/raheblog/raheblog/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=%24+sudo+rm+-rf+%2F+(just+kidding+%F0%9F%98%85);%24+nmap+-sV+my-wifi+(my+own+only!);%24+echo+%22Think+freely%22;%24+exit+0" />
 <div align="center">
 
 ```bash
